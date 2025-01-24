@@ -48,15 +48,15 @@ particlesJS("bg", {
         }
       },
       "line_linked": {
-        "enable": false,
+        "enable": true,
         "distance": 150,
         "color": "#ffffff",
-        "opacity": 0,
+        "opacity": 0.3,
         "width": 1
       },
       "move": {
         "enable": true,
-        "speed": 0.1,
+        "speed": 0.3,
         "direction": "none",
         "random": false,
         "straight": false,
